@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Auction System (Java Swing + SQLite)
 
 This is a small desktop auction application written in Java (Swing) that uses a local SQLite database to store users, items and bids. It was built for learning and small internal use-cases where a lightweight, single-file database and simple desktop UI are preferred.
@@ -19,6 +20,8 @@ This README documents the project's purpose, architecture, schema, important cla
 
 ## Project overview
 
+=======
+>>>>>>> 952c73c (inital commit)
 # Auction System (Java Swing + SQLite)
 
 This is a small desktop auction application written in Java (Swing) that uses a local SQLite database to store users, items and bids. It was built for learning and small internal use-cases where a lightweight, single-file database and simple desktop UI are preferred.
@@ -201,3 +204,8 @@ This repository contains no explicit license file. Add a license (MIT, Apache-2.
 If you want, I can also:
 - Add examples (screenshots) and inline class diagrams to the README.
 - Add unit tests and a CI workflow (GitHub Actions) to run build and tests on push.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 952c73c (inital commit)
