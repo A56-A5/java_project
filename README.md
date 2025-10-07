@@ -175,9 +175,4 @@ Recommended small improvements you might add:
 
 This repository contains no explicit license file. Add a license (MIT, Apache-2.0, etc.) if you want to allow others to reuse the code.
 
----
-
-If you want, I can also:
-- Add examples (screenshots) and inline class diagrams to the README.
-- Add unit tests and a CI workflow (GitHub Actions) to run build and tests on push.
 
