@@ -30,17 +30,6 @@
             <artifactId>flatlaf</artifactId>
             <version>3.4</version>
         </dependency>
-            <!-- Lightweight web server for REST API -->
-            <dependency>
-                <groupId>com.sparkjava</groupId>
-                <artifactId>spark-core</artifactId>
-                <version>2.9.4</version>
-            </dependency>
-            <dependency>
-                <groupId>com.google.code.gson</groupId>
-                <artifactId>gson</artifactId>
-                <version>2.10.1</version>
-            </dependency>
     </dependencies>
 
     <build>
@@ -60,8 +49,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <!-- Use server main when deploying to Railway -->
-                            <mainClass>com.auction.ServerApp</mainClass>
+                            <mainClass>com.auction.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

@@ -1,15 +1,15 @@
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\ui\LoginFrame.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\dao\UserDao.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\ui\MainFrame.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\util\ImageStorage.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\App.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\model\Item.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\model\Bid.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\ui\BidsManageDialog.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\dao\ItemDao.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\dao\BidDao.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\model\User.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\database\Database.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\tools\TestDb.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\service\AuctionService.java
-C:\Users\alviv\Documents\project-wip-2\auciton-system\src\main\java\com\auction\util\UsernameLookup.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\model\User.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\database\Database.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\util\UsernameLookup.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\model\Bid.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\App.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\ui\LoginFrame.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\dao\UserDao.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\dao\ItemDao.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\ui\BidsManageDialog.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\util\ImageStorage.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\model\Item.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\tools\TestDb.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\service\AuctionService.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\ui\MainFrame.java
+C:\Users\alviv\Documents\project-wip-2\java_project copy\src\main\java\com\auction\dao\BidDao.java
